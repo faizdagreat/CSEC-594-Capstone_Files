@@ -1,0 +1,27 @@
+2026-06-08T01:58:08+0000 [-] No operator config file found; using bundled defaults only
+2026-06-08T01:58:08+0000 [-] Python Version 3.13.5 (main, May  5 2026, 21:05:52) [GCC 14.2.0]
+2026-06-08T01:58:08+0000 [-] Twisted Version 26.4.0
+2026-06-08T01:58:08+0000 [-] Cowrie Version 3.0.2.dev8+gbca2869cb
+2026-06-08T01:58:08+0000 [-] Sensor UUID: 518e2d7a-6002-11f1-a2fa-7a4e69d4f6fd
+2026-06-08T01:58:08+0000 [-] Loaded output engine: jsonlog
+2026-06-08T01:58:08+0000 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 26.4.0 (/cowrie/cowrie-env/bin/python3 3.13.5) starting up.
+2026-06-08T01:58:08+0000 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.epollreactor.EPollReactor.
+2026-06-08T01:58:08+0000 [-] CowrieSSHFactory starting on 2222
+2026-06-08T01:58:08+0000 [cowrie.ssh.factory.CowrieSSHFactory#info] Starting factory <cowrie.ssh.factory.CowrieSSHFactory object at 0x7d7c1fcf96a0>
+2026-06-08T01:58:08+0000 [-] Ready to accept SSH connections
+2026-06-08T02:00:02+0000 [twisted.internet.base#info] Received SIGTERM, shutting down.
+2026-06-08T02:00:02+0000 [-] (TCP Port 2222 Closed)
+2026-06-08T02:00:02+0000 [cowrie.ssh.factory.CowrieSSHFactory#info] Stopping factory <cowrie.ssh.factory.CowrieSSHFactory object at 0x7d7c1fcf96a0>
+2026-06-08T02:00:02+0000 [twisted.internet.base#info] Main loop terminated.
+2026-06-08T02:00:02+0000 [twisted.scripts._twistd_unix.UnixAppLogger#info] Server Shut Down.
+2026-06-08T02:00:04+0000 [-] No operator config file found; using bundled defaults only
+2026-06-08T02:00:04+0000 [-] Python Version 3.13.5 (main, May  5 2026, 21:05:52) [GCC 14.2.0]
+2026-06-08T02:00:04+0000 [-] Twisted Version 26.4.0
+2026-06-08T02:00:04+0000 [-] Cowrie Version 3.0.2.dev8+gbca2869cb
+2026-06-08T02:00:04+0000 [-] Sensor UUID: 518e2d7a-6002-11f1-a2fa-7a4e69d4f6fd
+2026-06-08T02:00:04+0000 [-] Loaded output engine: jsonlog
+2026-06-08T02:00:04+0000 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 26.4.0 (/cowrie/cowrie-env/bin/python3 3.13.5) starting up.
+2026-06-08T02:00:04+0000 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.epollreactor.EPollReactor.
+2026-06-08T02:00:04+0000 [-] CowrieSSHFactory starting on 2222
+2026-06-08T02:00:04+0000 [cowrie.ssh.factory.CowrieSSHFactory#info] Starting factory <cowrie.ssh.factory.CowrieSSHFactory object at 0x794fe78fd6a0>
+2026-06-08T02:00:04+0000 [-] Ready to accept SSH connections
