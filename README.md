@@ -168,7 +168,6 @@ Key external references:
 - Cowrie SSH Honeypot — https://github.com/cowrie/cowrie
 - Fail2ban Documentation — https://www.fail2ban.org/
 - Docker and iptables — https://docs.docker.com/network/iptables/
-- NIST SP 800-123: Guide to General Server Security
 - SecLists Penetration Testing Lists — https://github.com/danielmiessler/SecLists
 
 
