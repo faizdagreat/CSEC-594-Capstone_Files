@@ -115,7 +115,7 @@ The project applied five defensive controls in sequence:
 | II | Fail2ban automated banning | Integration with Docker proved fragile | (FAILED)
 | II | UFW rate limiting | bypassed by Docker network rules |
 | II | iptables INPUT throttling | bypassed by Docker network rules |
-| IV | iptables DOCKER-USER chain | Complete attack blocking achieved |
+| III | iptables DOCKER-USER chain | Complete attack blocking achieved |
 
 ### The Working Defense
 
