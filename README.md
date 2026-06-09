@@ -23,7 +23,7 @@ This project deploys a Cowrie SSH honeypot in an isolated VirtualBox network and
 | VM 1 (Honeypot) | Ubuntu 22.04 LTS Server, 192.168.56.10 |
 | VM 2 (Attacker) | Kali Linux, 192.168.56.20 |
 | Honeypot Software | Cowrie SSH honeypot (Docker deployment) |
-| Network | Fully isolated — no internet routing |
+| Network | Fully isolated  no internet routing Host Only Adapter|
 
 ---
 
