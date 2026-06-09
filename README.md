@@ -9,7 +9,7 @@ A cybersecurity capstone project investigating potential SSH attack patterns and
 
 ## Project Overview
 
-This project deploys a Cowrie SSH honeypot in an isolated VirtualBox network and executes three categories of simulated attack against it. Multiple defensive controls are then applied and tested to evaluate their effectiveness. The complete findings — including the discovery that Docker silently bypasses host firewall rules — are documented in the accompanying paper.
+This project deploys a Cowrie SSH honeypot in an isolated VirtualBox network and executes three categories of simulated attack against it. Multiple defensive controls are then applied and tested to evaluate their effectiveness. The complete findings include the discovery that Docker silently bypasses host firewall rules and are documented in the accompanying paper.
 
 **Key finding:** Conventional host-level firewall rules (UFW, iptables INPUT chain) do not protect Docker-deployed services. Effective container traffic restriction requires rules placed in the DOCKER-USER chain.
 
